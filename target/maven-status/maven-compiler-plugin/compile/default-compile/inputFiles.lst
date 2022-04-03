@@ -1,0 +1,7 @@
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\EnableSimpleHttpClients.java
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\config\HttpClientsRegister.java
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\config\HelloProperties.java
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\config\HelloServiceAutoConfiguration.java
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\SimpleHttpClient.java
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\SimpleHttpClientFactoryBean.java
+D:\MyProject\simple-spring-cloud\marry-http-client-starter\src\main\java\com\marry\mhttp\service\HelloService.java

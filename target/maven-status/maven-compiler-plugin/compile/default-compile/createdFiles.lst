@@ -1,0 +1,5 @@
+com\marry\mhttp\SimpleHttpClientFactoryBean.class
+com\marry\mhttp\config\HelloProperties.class
+com\marry\mhttp\SimpleHttpClientFactoryBean$1.class
+com\marry\mhttp\config\HelloServiceAutoConfiguration.class
+com\marry\mhttp\service\HelloService.class
